@@ -23,7 +23,7 @@ https://neeraj450107.github.io/Stopwatch.github.io/
 
 ## Demo
 
-
+![Image](https://github.com/user-attachments/assets/478ced0b-23ac-4845-894b-8b587bc2170f)
 
 
 ## Technologies Used
@@ -33,7 +33,8 @@ https://neeraj450107.github.io/Stopwatch.github.io/
  - JavaScript: Logic for stopwatch controls and lap functionality.
 ## Screenshots
 
-
+![Image](https://github.com/user-attachments/assets/042ecc4c-f13d-43f9-b44c-b48dd3545cc5)
+![Image](https://github.com/user-attachments/assets/8879f738-cec1-45b1-84d0-6df52759ca59)
 
 
 ## Getting Started
